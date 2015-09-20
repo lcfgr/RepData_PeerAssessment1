@@ -88,6 +88,7 @@ max_avg_steps$interval
 
 ## Imputing missing values
 
+**The strategy will be to replace the NA values, with the mean value of the steps of the corresponding interval**
 
 *  Merge so that there is a new column that contains the average of the specific interval of each row
 
